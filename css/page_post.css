@@ -1,0 +1,38 @@
+* {
+    background-color: #1c1c1c;
+}
+label{
+    color: white;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: white;
+}
+input[type=submit] {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: tomato;
+}
+div {
+    border-radius: 5px;
+    background-color: rgb(138, 190, 54);
+    padding: 20px;
+}
+button {
+    color: white;
+    background-color: palevioletred;
+}
